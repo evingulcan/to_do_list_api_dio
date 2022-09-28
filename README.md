@@ -1,16 +1,4 @@
-# to_do_list_app
+<div><h1>To Do List App </h1></div>
+<h4>I performed get, post, put and delete operations using the to-do list api.</h4>
+<h4>To do list api'si :https://jsonplaceholder.typicode.com/todos </h4>
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
